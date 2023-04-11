@@ -15,4 +15,3 @@ Problems:
             Which 5 authors have the highest number of ratings?
             Which publishers publish in the highest number of different languages?
 
-Deliverable: Jupyter notebook with comments. Take advantage of Jupyter to tell a story as you create your model.
